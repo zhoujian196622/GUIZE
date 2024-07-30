@@ -6,7 +6,7 @@
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,googleapis
 DOMAIN-KEYWORD,domain:googleapis
-
+DOMAIN-KEYWORD,services.googleapis
 
 # 域名后缀匹配
 #DOMAIN-SUFFIX,perplexity.ai
@@ -15,3 +15,4 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,domain:googleapis.cn
+DOMAIN-SUFFIX,services.googleapis.cn
