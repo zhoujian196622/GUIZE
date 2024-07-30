@@ -1,0 +1,14 @@
+# 内容：走美国节点
+# 域名关键字匹配
+#DOMAIN-KEYWORD,openai
+#DOMAIN-KEYWORD,anthropic
+#DOMAIN-KEYWORD,Claude
+DOMAIN-KEYWORD,v2rayssr
+
+
+
+# 域名后缀匹配
+#DOMAIN-SUFFIX,perplexity.ai
+#DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,v2rayssr.com
+
