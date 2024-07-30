@@ -1,0 +1,15 @@
+# 内容：走美国节点
+# 域名关键字匹配
+#DOMAIN-KEYWORD,openai
+#DOMAIN-KEYWORD,anthropic
+#DOMAIN-KEYWORD,Claude
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,googleapis
+
+
+# 域名后缀匹配
+#DOMAIN-SUFFIX,perplexity.ai
+#DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,google.com
+
