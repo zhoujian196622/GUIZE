@@ -4,6 +4,7 @@
 #DOMAIN-KEYWORD,anthropic
 #DOMAIN-KEYWORD,Claude
 DOMAIN-KEYWORD,v2rayssr
+DOMAIN-KEYWORD,googleapis
 
 
 
@@ -11,4 +12,7 @@ DOMAIN-KEYWORD,v2rayssr
 #DOMAIN-SUFFIX,perplexity.ai
 #DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,v2rayssr.com
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,googleapis.com
+
 
