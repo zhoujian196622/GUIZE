@@ -1,6 +1,10 @@
 # 内容：走美国节点
 # 域名关键字匹配
 #DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,v2rayssr
+DOMAIN-KEYWORD,linktr
 
 # 域名后缀匹配
 #DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,v2rayssr.com
+DOMAIN-SUFFIX,linktr.ee
