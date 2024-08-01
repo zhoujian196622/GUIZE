@@ -4,12 +4,14 @@
 #DOMAIN-KEYWORD,anthropic
 #DOMAIN-KEYWORD,Claude
 DOMAIN-KEYWORD,v2rayssr
+DOMAIN-KEYWORD,linktr
 
 
 # 域名后缀匹配
 #DOMAIN-SUFFIX,perplexity.ai
 #DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,v2rayssr.com
+DOMAIN-SUFFIX,linktr.ee
 
 
 
