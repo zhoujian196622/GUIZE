@@ -7,8 +7,7 @@ DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,googleapis
 DOMAIN-KEYWORD,domain:googleapis
 DOMAIN-KEYWORD,services.googleapis
-DOMAIN-KEYWORD,linktr
-DOMAIN-KEYWORD,whatsapp
+
 
 # 域名后缀匹配
 #DOMAIN-SUFFIX,perplexity.ai
