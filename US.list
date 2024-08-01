@@ -2,6 +2,7 @@
 # 域名关键字匹配
 #DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,v2rayssr
+DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,linktr
 DOMAIN-KEYWORD,baidu
 
