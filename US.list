@@ -3,10 +3,7 @@
 #DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,v2rayssr
 DOMAIN-KEYWORD,youtube
-DOMAIN-KEYWORD,linktr
-DOMAIN-KEYWORD,baidu
 
 # 域名后缀匹配
 #DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,v2rayssr.com
-DOMAIN-SUFFIX,linktr.ee
