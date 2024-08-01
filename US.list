@@ -5,6 +5,7 @@
 #DOMAIN-KEYWORD,Claude
 DOMAIN-KEYWORD,v2rayssr
 DOMAIN-KEYWORD,linktr
+DOMAIN-KEYWORD,linktr.ee
 
 
 # 域名后缀匹配
@@ -12,6 +13,7 @@ DOMAIN-KEYWORD,linktr
 #DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,linktr.ee
+DOMAIN-SUFFIX,linktr.ee/admin
 
 
 
