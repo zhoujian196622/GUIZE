@@ -4,9 +4,11 @@
 #DOMAIN-KEYWORD,anthropic
 #DOMAIN-KEYWORD,Claude
 DOMAIN-KEYWORD,cloudflare
+DOMAIN-KEYWORD,nvidia
 
 
 # 域名后缀匹配
 #DOMAIN-SUFFIX,perplexity.ai
 #DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,nvidia.com
