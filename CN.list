@@ -5,6 +5,7 @@
 #DOMAIN-KEYWORD,Claude
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,nvidia
+DOMAIN-KEYWORD,synology
 
 
 # 域名后缀匹配
@@ -12,3 +13,5 @@ DOMAIN-KEYWORD,nvidia
 #DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,nvidia.com
+DOMAIN-SUFFIX,synology.cn
+DOMAIN-SUFFIX,synology.con
