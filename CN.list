@@ -10,7 +10,7 @@ DOMAIN-KEYWORD,synologydownload
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,githubassets
 DOMAIN-KEYWORD,githubusercontent
-
+DOMAIN-KEYWORD,dhgate
 
 # 域名后缀匹配
 #DOMAIN-SUFFIX,perplexity.ai
@@ -24,7 +24,7 @@ DOMAIN-SUFFIX,synologydownload.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubassets.con
 DOMAIN-SUFFIX,githubusercontent.com
-
+DOMAIN-SUFFIX,dhgate.com
 
 
 # 直连补充列表(国内域名不解析时，防止走代理使用)
