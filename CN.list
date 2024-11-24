@@ -7,9 +7,6 @@ DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,nvidia
 DOMAIN-KEYWORD,synology
 DOMAIN-KEYWORD,synologydownload
-DOMAIN-KEYWORD,github
-DOMAIN-KEYWORD,githubassets
-DOMAIN-KEYWORD,githubusercontent
 DOMAIN-KEYWORD,dhgate
 
 # 域名后缀匹配
@@ -21,9 +18,6 @@ DOMAIN-SUFFIX,synology.cn
 DOMAIN-SUFFIX,synology.con
 DOMAIN-SUFFIX,synologydownload.cn
 DOMAIN-SUFFIX,synologydownload.com
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,githubassets.con
-DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,dhgate.com
 
 
