@@ -9,6 +9,7 @@ DOMAIN-KEYWORD,synology
 DOMAIN-KEYWORD,synologydownload
 DOMAIN-KEYWORD,dhgate
 DOMAIN-KEYWORD,paypal
+DOMAIN-KEYWORD,zhoujian
 
 # 域名后缀匹配
 #DOMAIN-SUFFIX,perplexity.ai
@@ -21,6 +22,7 @@ DOMAIN-SUFFIX,synologydownload.cn
 DOMAIN-SUFFIX,synologydownload.com
 DOMAIN-SUFFIX,dhgate.com
 DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,zhoujian.fun
 
 
 # 直连补充列表(国内域名不解析时，防止走代理使用)
