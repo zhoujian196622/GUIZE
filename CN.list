@@ -22,7 +22,11 @@ DOMAIN-SUFFIX,synologydownload.cn
 DOMAIN-SUFFIX,synologydownload.com
 DOMAIN-SUFFIX,dhgate.com
 DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypal.cn
 DOMAIN-SUFFIX,zhoujian.fun
+DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
 
 # 直连补充列表(国内域名不解析时，防止走代理使用)
