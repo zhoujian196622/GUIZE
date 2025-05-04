@@ -11,7 +11,7 @@ DOMAIN-KEYWORD,dhgate
 DOMAIN-KEYWORD,paypal
 DOMAIN-KEYWORD,zhoujian
 DOMAIN-KEYWORD,bing
-
+DOMAIN-KEYWORD,chanel
 
 # 域名后缀匹配
 #DOMAIN-SUFFIX,perplexity.ai
@@ -30,7 +30,7 @@ DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,bing.com
-
+DOMAIN-SUFFIX,chanel.com
 
 
 # 直连补充列表(国内域名不解析时，防止走代理使用)
