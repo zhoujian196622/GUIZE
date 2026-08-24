@@ -7,7 +7,7 @@ DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,nvidia
 DOMAIN-KEYWORD,synology
 DOMAIN-KEYWORD,synologydownload
-DOMAIN-KEYWORD,dhgate
+# DOMAIN-KEYWORD,dhgate
 DOMAIN-KEYWORD,paypal
 DOMAIN-KEYWORD,zhoujian
 DOMAIN-KEYWORD,bing
@@ -22,7 +22,7 @@ DOMAIN-SUFFIX,synology.cn
 DOMAIN-SUFFIX,synology.con
 DOMAIN-SUFFIX,synologydownload.cn
 DOMAIN-SUFFIX,synologydownload.com
-DOMAIN-SUFFIX,dhgate.com
+# DOMAIN-SUFFIX,dhgate.com
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,paypal.cn
 DOMAIN-SUFFIX,zhoujian.fun
