@@ -5,6 +5,7 @@ DOMAIN-KEYWORD,v2rayssr
 DOMAIN-KEYWORD,linktr
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,vumstar
+DOMAIN-KEYWORD,dhgate
 
 # 域名后缀匹配
 #DOMAIN-SUFFIX,chatgpt.com
@@ -13,3 +14,4 @@ DOMAIN-SUFFIX,linktr.ee
 DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,vumstar.com
+DOMAIN-SUFFIX,dhgate.com
